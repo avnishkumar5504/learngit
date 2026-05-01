@@ -4,5 +4,6 @@ class a{
         int b=20;
         int sum=a+b;
         System.out.println("The sum of a and b is: " + sum);
+        System.out.println("The difference of a and b is: " + (a - b));
     }
 }
